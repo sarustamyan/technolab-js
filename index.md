@@ -6,6 +6,7 @@
 2. Jora Ghazaryan
 3. Hovhannes
 4. Davit Margaryan
+5. Albert Zakhrabekyan
 
 ## Lesson 0 - Introduction
 
