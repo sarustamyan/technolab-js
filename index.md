@@ -4,6 +4,7 @@
 
 1. Tamara
 2. Jora Ghazaryan
+3. Hovhannes
 
 ## Lesson 0 - Introduction
 
