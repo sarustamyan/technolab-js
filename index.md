@@ -3,6 +3,7 @@
 ## Participants
 
 1. Tamara
+2. Jora Ghazaryan
 
 ## Lesson 0 - Introduction
 
