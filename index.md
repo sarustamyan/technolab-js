@@ -7,6 +7,7 @@
 3. Hovhannes
 4. Davit Margaryan
 5. Albert Zakhrabekyan
+6. Karine
 
 ## Lesson 0 - Introduction
 
