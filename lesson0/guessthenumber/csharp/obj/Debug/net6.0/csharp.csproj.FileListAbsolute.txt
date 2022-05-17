@@ -1,0 +1,15 @@
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+D:\MyFolder\work\workshop\lesson0\csharp\bin\Debug\net6.0\csharp.exe
+D:\MyFolder\work\workshop\lesson0\csharp\bin\Debug\net6.0\csharp.deps.json
+D:\MyFolder\work\workshop\lesson0\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+D:\MyFolder\work\workshop\lesson0\csharp\bin\Debug\net6.0\csharp.dll
+D:\MyFolder\work\workshop\lesson0\csharp\bin\Debug\net6.0\csharp.pdb
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\csharp.dll
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\refint\csharp.dll
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\csharp.pdb
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
+D:\MyFolder\work\workshop\lesson0\csharp\obj\Debug\net6.0\ref\csharp.dll
