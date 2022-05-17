@@ -2,7 +2,7 @@
 
 ## Participants
 
-1. `<-- Put your name in here`
+1. Jora Ghazaryan
 
 ## Lesson 0 - Introduction
 
