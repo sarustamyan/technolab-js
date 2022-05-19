@@ -1,8 +1,9 @@
-# Welcome to the Techolab Javascript course
+# Welcome to the Techolab Javascript course!
 
 ## Participants
 
-1. `Albert Zakhrabekyan`
+- Karine
+- Albert Zakhrabekyan
 
 ## Lesson 0 - Introduction
 
