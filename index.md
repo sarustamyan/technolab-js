@@ -5,6 +5,7 @@
 - Karine
 - Albert Zakhrabekyan
 - Davit Margaryan
+- Hovhannes
 
 ## Lesson 0 - Introduction
 
