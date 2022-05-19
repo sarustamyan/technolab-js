@@ -6,6 +6,7 @@
 - Albert Zakhrabekyan
 - Davit Margaryan
 - Hovhannes
+- Jora Ghazaryan
 
 ## Lesson 0 - Introduction
 
