@@ -1,8 +1,13 @@
-# Welcome to the Techolab Javascript course
+# Welcome to the Techolab Javascript course!
 
 ## Participants
 
-1. Tamara
+- Karine
+- Albert Zakhrabekyan
+- Davit Margaryan
+- Hovhannes
+- Jora Ghazaryan
+- Tamara
 
 ## Lesson 0 - Introduction
 
