@@ -68,6 +68,23 @@
 
 ## Lesson 2 - Arrays
 
+### Prerequisites
+
+1. Create an account in [https://leetcode.com](https://leetcode.com)
+
+### In Class
+
+1. Arrays, high-level overview.
+2. String representations. ASCII vs Unicode.
+3. Workshop: converting a string to lowercase: [https://leetcode.com/problems/to-lower-case/](https://leetcode.com/problems/to-lower-case/)
+4. Individual coding challenge: [https://leetcode.com/problems/student-attendance-record-i/](https://leetcode.com/problems/student-attendance-record-i/)
+
+### Home Assignments
+
+1. https://leetcode.com/problems/plus-one/
+2. https://leetcode.com/problems/max-consecutive-ones/
+3. https://leetcode.com/problems/length-of-last-word/
+
 ## Lesson 3 - Sorting
 
 ## Lesson 4 - Multidimensional Arrays
