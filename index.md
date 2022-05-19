@@ -2,7 +2,8 @@
 
 ## Participants
 
-1. Karine
+- Karine
+- Albert Zakhrabekyan
 
 ## Lesson 0 - Introduction
 
