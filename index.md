@@ -81,11 +81,28 @@
 
 ### Home Assignments
 
-1. https://leetcode.com/problems/plus-one/
-2. https://leetcode.com/problems/max-consecutive-ones/
-3. https://leetcode.com/problems/length-of-last-word/
+1. [https://leetcode.com/problems/plus-one/](https://leetcode.com/problems/plus-one/)
+2. [https://leetcode.com/problems/max-consecutive-ones/](https://leetcode.com/problems/max-consecutive-ones/)
+3. [https://leetcode.com/problems/length-of-last-word/](https://leetcode.com/problems/length-of-last-word/)
 
 ## Lesson 3 - Sorting
+
+1. Sorting algorithms, complexity ([https://en.wikipedia.org/wiki/Sorting_algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm))
+2. `O(n^2)` sorting algorithms
+   1. Selection Sort ([https://en.wikipedia.org/wiki/Selection_sort](https://en.wikipedia.org/wiki/Selection_sort))
+   2. Buble Sort ([https://en.wikipedia.org/wiki/Bubble_sort](https://en.wikipedia.org/wiki/Bubble_sort))
+3. `O(n * log(n))` sorting algorithms
+   1. Merge Sort ([https://en.wikipedia.org/wiki/Merge_sort](https://en.wikipedia.org/wiki/Merge_sort))
+
+### In Class
+
+1. Workshop: implement Selection Sort
+2. Individual coding challenge: calculate the median of an array: [https://en.wikipedia.org/wiki/Median](https://en.wikipedia.org/wiki/Median)
+   
+### Home Assignment
+
+1. Implement Merge Sort
+
 
 ## Lesson 4 - Multidimensional Arrays
 
