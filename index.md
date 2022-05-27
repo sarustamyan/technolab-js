@@ -99,20 +99,35 @@
 1. Workshop: implement Selection Sort
 2. Individual coding challenge: calculate the median of an array: [https://en.wikipedia.org/wiki/Median](https://en.wikipedia.org/wiki/Median)
    
-### Home Assignment
+### Home Assignments
 
 1. Implement Merge Sort
 
 
 ## Lesson 4 - Multidimensional Arrays
 
-## Lesson 4 - Linked Lists
+1. Instantiating a matrix: [https://www.w3docs.com/snippets/javascript/how-to-create-a-two-dimensional-array-in-javascript.html](https://www.w3docs.com/snippets/javascript/how-to-create-a-two-dimensional-array-in-javascript.html)
 
-## Lesson 5 - Sets
+### In Class
 
-## Lesson 6 - Trees
+1. Print the diagonal elements of a given (NxN) matrix 
+2. Calculate the average of the elements of the upper triangular matrix of a given (NxN) matrix
 
-## Lesson 7 - Graphs
+### Home Asignments
+
+1. Matrix Diagonal Sum: [https://leetcode.com/problems/matrix-diagonal-sum/](https://leetcode.com/problems/matrix-diagonal-sum/)
+2. Convert 1D Array Into 2D Array: [https://leetcode.com/problems/convert-1d-array-into-2d-array/](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
+3. Lucky Numbers in a Matrix: [https://leetcode.com/problems/lucky-numbers-in-a-matrix/](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+4. Sudoku validator: [https://leetcode.com/problems/valid-sudoku/](https://leetcode.com/problems/valid-sudoku/)
+5. Sudoku solver: [https://leetcode.com/problems/sudoku-solver/](https://leetcode.com/problems/sudoku-solver/)
+
+## Lesson 5 - Linked Lists
+
+## Lesson 6 - Sets
+
+## Lesson 7 - Trees
+
+## Lesson 8 - Graphs
 
 
 
