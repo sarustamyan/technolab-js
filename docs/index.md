@@ -113,7 +113,7 @@
 1. Print the diagonal elements of a given (NxN) matrix 
 2. Calculate the average of the elements of the upper triangular matrix of a given (NxN) matrix
 
-### Home Asignments
+### Home Assignments
 
 1. Matrix Diagonal Sum: [https://leetcode.com/problems/matrix-diagonal-sum/](https://leetcode.com/problems/matrix-diagonal-sum/)
 2. Convert 1D Array Into 2D Array: [https://leetcode.com/problems/convert-1d-array-into-2d-array/](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
@@ -121,13 +121,23 @@
 4. Sudoku validator: [https://leetcode.com/problems/valid-sudoku/](https://leetcode.com/problems/valid-sudoku/)
 5. Sudoku solver: [https://leetcode.com/problems/sudoku-solver/](https://leetcode.com/problems/sudoku-solver/)
 
-## Lesson 5 - Linked Lists
+## Lesson 5 - Recap 
 
-## Lesson 6 - Sets
+### In Class
 
-## Lesson 7 - Trees
+1. Return all the permutations of a given array: [https://leetcode.com/problems/permutations/](https://leetcode.com/problems/permutations/)
 
-## Lesson 8 - Graphs
+### Home Assignments
+
+1. Return all the subsets of a given array: [https://leetcode.com/problems/subsets/](https://leetcode.com/problems/subsets/)
+2. Research about recursion
+   1. **https://www.youtube.com/watch?v=AfBqVVKg4GE**
+
+## Lesson 6 - Recursion 
+
+## Lesson 7 - Sets
+
+## Lesson 8 - Trees
 
 
 
