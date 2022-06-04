@@ -135,6 +135,16 @@
 
 ## Lesson 6 - Recursion 
 
+### In Class
+
+1. Determine if a word is a palindrome recursively
+
+### Home Assignments
+
+1. Read about Memoization: [https://dev.to/ionabrabender/memoization-and-recursion-228f](https://dev.to/ionabrabender/memoization-and-recursion-228f)
+2. Chocolate and Wrapper: [https://www.geeksforgeeks.org/puzzle-22-maximum-chocolates/](https://www.geeksforgeeks.org/puzzle-22-maximum-chocolates/)
+3. Climbing stairs: [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
+
 ## Lesson 7 - Sets
 
 ## Lesson 8 - Trees
