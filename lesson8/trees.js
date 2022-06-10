@@ -41,6 +41,28 @@ function preorderTraversal(root) {
     preorderTraversal(root.right);
 }
 
-preorderTraversal(tree1);
-console.log("\r\n");
-preorderTraversal(tree2);
+// preorderTraversal(tree1);
+// console.log("\r\n");
+// preorderTraversal(tree2);
+
+function breadthFirstTraversal(root) {
+    let queue = [root];
+    breadthFirstTraversalHelper(queue);
+}
+
+function breadthFirstTraversalHelper(queue) {
+    if (queue.length < 1) {
+        return;
+    }
+    let node = queue.shift();
+    console.log(node.val);
+    if (node.left !== null) {
+        queue.push(node.left);
+    }
+    if (node.right !== null) {
+        queue.push(node.right);
+    }
+    breadthFirstTraversalHelper(queue);
+}
+
+breadthFirstTraversal(tree1);
