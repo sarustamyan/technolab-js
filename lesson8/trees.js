@@ -1,4 +1,4 @@
-var tree = {
+var tree1 = {
     val: 1,
     left: {
         val: 2,
@@ -19,3 +19,15 @@ var tree = {
         right: null
     }
 };
+
+function TreeNode(val) {
+    this.val = val;
+    this.left = null;
+    this.right = null;
+}
+
+var tree2 = new TreeNode(1);
+tree2.left = new TreeNode(2);
+tree2.right = new TreeNode(3);
+tree2.left.left = new TreeNode(4);
+tree2.left.right = new TreeNode(5);
