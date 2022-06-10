@@ -31,3 +31,16 @@ tree2.left = new TreeNode(2);
 tree2.right = new TreeNode(3);
 tree2.left.left = new TreeNode(4);
 tree2.left.right = new TreeNode(5);
+
+function preorderTraversal(root) {
+    if (root === null) {
+        return;
+    }
+    console.log(root.val);
+    preorderTraversal(root.left);
+    preorderTraversal(root.right);
+}
+
+preorderTraversal(tree1);
+console.log("\r\n");
+preorderTraversal(tree2);
