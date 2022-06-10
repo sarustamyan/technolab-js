@@ -145,9 +145,27 @@
 2. Chocolate and Wrapper: [https://www.geeksforgeeks.org/puzzle-22-maximum-chocolates/](https://www.geeksforgeeks.org/puzzle-22-maximum-chocolates/)
 3. Climbing stairs: [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
 
-## Lesson 7 - Sets
+## Lesson 7 - HashSets / HashTables
+
+### In Class
+
+1. Theory behind hash tables: [https://en.wikipedia.org/wiki/Hash_table](https://dev.to/ionabrabender/memoization-and-recursion-228f)
+
+### Home Assignments
+
+1. DoS attack on web servers exploiting the hashing algorithm: [https://www.youtube.com/watch?v=R2Cq3CLI6H8](https://www.youtube.com/watch?v=R2Cq3CLI6H8)
 
 ## Lesson 8 - Trees
 
+### In Class
 
+1. Recursive traversal algorithms (inorder/preorder/postorder): [https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+2. Breadth-first/Depth-first traversal using a queue/stack: [https://www.geeksforgeeks.org/level-order-tree-traversal/](https://www.geeksforgeeks.org/level-order-tree-traversal/)
+3. Binary search trees [https://en.wikipedia.org/wiki/Binary_search_tree](https://en.wikipedia.org/wiki/Binary_search_tree)
+
+### Home Assignments
+
+1. Searching in a binary search tree. 
+2. Validate binary search tree: [https://leetcode.com/problems/validate-binary-search-tree/](https://leetcode.com/problems/validate-binary-search-tree/)
+	
 
